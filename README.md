@@ -4,10 +4,10 @@
 - 🌱 Estudando Java
 - 📫 Contate-me no email: alexandredeucher@gmail.com
 
-<div align="center">
+<div align="right">
   <a href="https://github.com/AlexandreDeucher">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreDeucher&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreDeucher&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreDeucher&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreDeucher&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
   
   ##
   
