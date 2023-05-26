@@ -9,7 +9,7 @@
   
   
 </div >
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center" ><br>
   <img align="center" alt="Alexandre-J" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Alexandre-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
   <img align="center" alt="Alexandre-Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg">
