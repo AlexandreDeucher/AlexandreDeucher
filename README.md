@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Alexandre Deucher
 
-- 🌱 Estudando Java e Ruby on Rails
+- 🌱 Estudando Ruby on Rails
 
 <div align="center">
   <a href="https://github.com/AlexandreDeucher">
